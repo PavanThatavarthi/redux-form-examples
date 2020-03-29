@@ -10,6 +10,8 @@ namespace Git.Explore
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Hello World");
         }
     }
 }
