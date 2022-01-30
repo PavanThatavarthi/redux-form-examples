@@ -20,6 +20,7 @@ namespace Git.Explore
             //feature commit3;
             //sqash commit1;
             //squash commit2
+            //squash online1
         }
     }
 }
