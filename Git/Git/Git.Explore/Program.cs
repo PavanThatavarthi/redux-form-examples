@@ -45,6 +45,9 @@ namespace Git.Explore
             //feature merge without reset1
             //feature merge without reset2
             //feature merge without reset3
+            //Merge option 1
+            //Merge option 2
+            //Merge option 3
         }
     }
 }
