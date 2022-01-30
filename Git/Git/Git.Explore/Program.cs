@@ -18,6 +18,13 @@ namespace Git.Explore
             //Base merge commit1
             //Base merge commit2
             //Base merge commit3
+            //feature commit1;
+            //featue commit2;
+            //feature commit3;
+            //sqash commit1;
+            //squash commit2
+            //squash online1
+            //squash online 2
         }
     }
 }
