@@ -27,6 +27,7 @@ namespace Git.Explore
             //squash online 2
             //feature merge without reset1
             //feature merge without reset2
+            //feature merge without reset3
         }
     }
 }
