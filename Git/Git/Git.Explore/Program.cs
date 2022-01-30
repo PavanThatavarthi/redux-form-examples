@@ -20,6 +20,7 @@ namespace Git.Explore
             //Base merge commit3
             //Base Merge without reset1
             //Base merge without reset2
+            //Base merge without reset3
         }
     }
 }
