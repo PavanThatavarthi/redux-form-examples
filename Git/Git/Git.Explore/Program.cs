@@ -17,6 +17,7 @@ namespace Git.Explore
             //Base commit3;
             //Base merge commit1
             //Base merge commit2
+            //Base merge commit3
         }
     }
 }
