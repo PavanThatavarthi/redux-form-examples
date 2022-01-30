@@ -35,6 +35,16 @@ namespace Git.Explore
             //feature merge without reset1
             //feature merge without reset2
             //feature merge without reset3
+            //feature commit1;
+            //featue commit2;
+            //feature commit3;
+            //sqash commit1;
+            //squash commit2
+            //squash online1
+            //squash online 2
+            //feature merge without reset1
+            //feature merge without reset2
+            //feature merge without reset3
         }
     }
 }
