@@ -23,6 +23,7 @@ namespace Git.Explore
             //Base merge without reset3
             //Merge option 1
             //Merge option 2
+            //Merge option 3
         }
     }
 }
