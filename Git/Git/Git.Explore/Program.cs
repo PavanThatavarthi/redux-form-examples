@@ -30,6 +30,7 @@ namespace Git.Explore
             //squash online 2
             //sqash commit1;
             //squash commit2
+            //squash online1
         }
     }
 }
