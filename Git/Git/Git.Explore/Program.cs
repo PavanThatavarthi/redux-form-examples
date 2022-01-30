@@ -22,6 +22,7 @@ namespace Git.Explore
             //Base merge without reset2
             //Base merge without reset3
             //feature commit1;
+            //featue commit2;
         }
     }
 }
