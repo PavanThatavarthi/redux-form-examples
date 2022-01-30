@@ -15,6 +15,9 @@ namespace Git.Explore
             //Base commit1;
             //Base commit2;
             //Base commit3;
+            //feature commit1;
+            //featue commit2;
+            //feature commit3;
         }
     }
 }
