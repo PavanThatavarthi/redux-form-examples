@@ -11,7 +11,7 @@ namespace Git.Explore
         static void Main(string[] args)
         {
             //cherry pick
-            Console.WriteLine("Hello World Chanaged Again");
+            Console.WriteLine("Hello World Chanaged");
         }
     }
 }
